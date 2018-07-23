@@ -1,5 +1,7 @@
 # KevinsFirstApp
 
+I'm following the [Complete Guide to Angular 2](https://www.udemy.com/the-complete-guide-to-angular-2) course through Udemy. There may be some differences here and there, because I like to play around a bit when following tutorials. 
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.8.
 
 ## Development server
